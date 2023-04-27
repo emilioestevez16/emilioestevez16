@@ -1,16 +1,13 @@
-### Hi there 👋
+ # ¡Hola a todos!
+  Soy Emilio Estevez, un estudiante en busca de experiencia laboral y principiante en React.js. Además, cuento con tres años de experiencia en HTML y CSS.
 
-<!--
-**emilioestevez16/emilioestevez16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##algunos de los proyectos que he desarrollado:
 
-Here are some ideas to get you started:
+- [TodoList (version Beta)](https://github.com/emilioestevez16/TODO-List "TodoList (version Beta)")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Espero que pueda ser de tu interés y que podamos colaborar juntos en algún proyecto😁
+
+##puedes encontrarme en:
+
+[Web Personal](http://www.emilioestevez.site "Web Personal")
+![](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femilio-estevez%2F)
