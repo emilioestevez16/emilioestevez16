@@ -11,5 +11,5 @@ Espero que pueda ser de tu interés y que podamos colaborar juntos en algún pro
 
 [Web Personal](http://www.emilioestevez.site "Web Personal) :tw-1f4bb:
 
-[LinkedIn](http://www.emilioestevez.site "Web Personal) 
+[LinkedIn](https://www.linkedin.com/in/emilio-estevez-996412227/) 
 
