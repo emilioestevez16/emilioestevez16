@@ -9,5 +9,7 @@ Espero que pueda ser de tu interés y que podamos colaborar juntos en algún pro
 
 ##puedes encontrarme en:
 
-[Web Personal](http://www.emilioestevez.site "Web Personal")
-![]( https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Femilioestevez16 )
+[Web Personal](http://www.emilioestevez.site "Web Personal) :tw-1f4bb:
+
+[LinkedIn](http://www.emilioestevez.site "Web Personal) 
+
